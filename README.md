@@ -1,10 +1,3 @@
-- [**Deployment**](#deployment)
-  - [**Build Images**](#build-images)
-  - [**Deployimet in GCE VM**](#deployimet-in-gce-vm)
-- [**Usage**](#usage)
-  - [**Reference**](#reference)
-
-
 # **Mini Rust WebSocket Server**
 
 
